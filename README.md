@@ -1,0 +1,2 @@
+# aleotests
+aleo testnet
